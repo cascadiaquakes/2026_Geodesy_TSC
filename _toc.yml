@@ -4,12 +4,17 @@
 format: jb-book
 root: intro
 parts:
+- caption: Day 1
+  chapters:
+  - file: notebooks/Day1/CRESCENT_TSC_Day1_GNSSFundamentals
+  - file: notebooks/Day1/CRESCENT_TSC_Day1_GNSSTimeSeries
 - caption: Day 2
   chapters:
   - file: notebooks/day2_fault_displacement
 - caption: Day 3
   chapters:
-  - file: notebooks/Day3/Geodesy_TSC/Slip_inversion.ipynb
-  - file: notebooks/Day3/Geodesy_TSC/Layered_model.ipynb
-  - file: notebooks/Day3/Geodesy_TSC/Compliant_wedge_model.ipynb
-  - file: notebooks/Day3/Geodesy_TSC/Viscoelastic_cycle.ipynb
+  - file: notebooks/Day3/Slip_inversion_demo
+  - file: notebooks/Day3/Layered_model_demo
+  - file: notebooks/Day3/Compliant_wedge_model_demo
+  - file: notebooks/Day3/Viscoelastic_cycle_demo
+  - file: notebooks/Day3/Slip_inversion_activities
