@@ -13,23 +13,23 @@ For course details, please visit the
 
 ## Course Materials
 
-**Day 1**
-[Lecture Slides: Course and Geodesy Intro (Tim Melbourne)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Course%20and%20Geodesy%20Intro.pdf)
-[Lecture Slides: Intro to GNSS (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Intro%20to%20GNSS.pdf)
-[Notebook 1: GNSS Fundamentals (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day1/CRESCENT_TSC_Day1_GNSSFundamentals.ipynb)
-[Notebook 2: GNSS Time Series (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day1/CRESCENT_TSC_Day1_GNSSTimeSeries.ipynb)
+**Day 1**  <br>
+[Lecture Slides: Course and Geodesy Intro (Tim Melbourne)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Course%20and%20Geodesy%20Intro.pdf)  <br>
+[Lecture Slides: Intro to GNSS (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Intro%20to%20GNSS.pdf)  <br>
+[Notebook 1: GNSS Fundamentals (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day1/CRESCENT_TSC_Day1_GNSSFundamentals.ipynb)  <br>
+[Notebook 2: GNSS Time Series (Brendan Crowell)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day1/CRESCENT_TSC_Day1_GNSSTimeSeries.ipynb)  <br>
 
-**Day 2**
-[Lecture Slides: Fault Slip and Displacement (Jack Loveless)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Day%202%20Fault%20Slip%20and%20Displacement.pdf)
-[Notebook 1: Fault Displacement (Jack Loveless)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/day2_fault_displacement.ipynb)
+**Day 2**  <br>
+[Lecture Slides: Fault Slip and Displacement (Jack Loveless)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Day%202%20Fault%20Slip%20and%20Displacement.pdf)  <br>
+[Notebook 1: Fault Displacement (Jack Loveless)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/day2_fault_displacement.ipynb)  <br>
 
-**Day 3**
-[Lecture Slides: Earth Structure Effects (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Day%203%20Earth%20Structure%20Effects.pdf)
-[Notebook 1: Slip Inversion Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_demo.ipynb)
-[Notebook 2: Layered Model Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Layered_model_demo.ipynb)
-[Notebook 3: Compliant Wedge Model Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Compliant_wedge_model_demo.ipynb)
-[Notebook 4: Viscoelastic Cycle Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Viscoelastic_cycle_demo.ipynb)
-[Notebook 5: Slip Inversion Activities (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_activities.ipynb)
+**Day 3**  <br>
+[Lecture Slides: Earth Structure Effects (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/slides/Day%203%20Earth%20Structure%20Effects.pdf)  <br>
+[Notebook 1: Slip Inversion Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_demo.ipynb)  <br>
+[Notebook 2: Layered Model Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Layered_model_demo.ipynb)  <br>
+[Notebook 3: Compliant Wedge Model Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Compliant_wedge_model_demo.ipynb)  <br>
+[Notebook 4: Viscoelastic Cycle Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Viscoelastic_cycle_demo.ipynb)  <br>
+[Notebook 5: Slip Inversion Activities (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_activities.ipynb)  <br>
 
 ## Instructors
 
