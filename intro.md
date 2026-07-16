@@ -43,6 +43,7 @@ Launch GeoLab: https://www.earthscope.org/data/geolab/   <br>
 GeoLab Documentation: https://docs.earthscope.org/geolab/getting-started   <br>
 Cloud Foundations tutorials: https://docs.earthscope.org/geolab/getting-started/examples-tutorials   <br>
 GeoLab Learning Hub (example notebooks): https://github.com/EarthScope/GeoLab-learning-hub   <br>
+Need Help? Discourse forum: https://earthscope.discourse.group   <br>
 
 **Running the notebooks locally**   <br>
 If you prefer to run the notebooks on your own computer, you can create a local Python environment using the [environment.yml file](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/aad38d4d8d6cfbe70439c2b100b1b36ef127193f/environment.yml) included in this repository. This file lists the software dependencies required to run the course notebooks outside of GeoLab.
