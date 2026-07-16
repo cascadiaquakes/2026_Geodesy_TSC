@@ -28,6 +28,25 @@ For course details, please visit the
 [Notebook 4: Viscoelastic Cycle Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Viscoelastic_cycle_demo.ipynb)  <br>
 [Notebook 5: Slip Inversion Activities (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_activities.ipynb)  <br>
 
+## Course Computing Environment (EarthScope GeoLab)
+
+This course used the EarthScope Consortium's GeoLab as its computing environment for all course activities. GeoLab is a browser-based JupyterHub platform that provides a ready-to-use scientific Python environment, allowing participants to run the course notebooks without installing software locally.
+
+The course notebooks were developed to run in GeoLab and remain compatible with that environment. Now that GeoLab is open to the broader Earth science community, anyone with an EarthScope User Account can use GeoLab to run the notebooks in this repository.
+
+**Accessing GeoLab**   <br>
+To use GeoLab, you will need an EarthScope User Account. If you do not already have one, you can create a free account here:   <br>
+EarthScope User Account: https://www.earthscope.org/user/   <br>
+Launch GeoLab: https://www.earthscope.org/data/geolab/   <br>
+
+**Additional GeoLab resources from EarthScope include:**   <br>
+GeoLab Documentation: https://docs.earthscope.org/geolab/getting-started   <br>
+Cloud Foundations tutorials: https://docs.earthscope.org/geolab/getting-started/examples-tutorials   <br>
+GeoLab Learning Hub (example notebooks): https://github.com/EarthScope/GeoLab-learning-hub   <br>
+
+**Running the notebooks locally**   <br>
+If you prefer to run the notebooks on your own computer, you can create a local Python environment using the [environment.yml file](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/aad38d4d8d6cfbe70439c2b100b1b36ef127193f/environment.yml) included in this repository. This file lists the software dependencies required to run the course notebooks outside of GeoLab.
+
 ## Instructors
 
 Brendan Crowell (Ohio State University) <br>
