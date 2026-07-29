@@ -28,9 +28,9 @@ For course details, please visit the
 [Notebook 4: Viscoelastic Cycle Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Viscoelastic_cycle_demo.ipynb)  <br>
 [Notebook 5: Slip Inversion Activities (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_activities.ipynb)  <br>
 
-## Course Computing Environment (EarthScope GeoLab)
+## Course Computing Environment (GeoLab)
 
-This course used the EarthScope Consortium's GeoLab as its computing environment for all course activities. GeoLab is a browser-based JupyterHub platform that provides a ready-to-use scientific Python environment, allowing participants to run the course notebooks without installing software locally.
+This course used the GeoLab, a computing environment provided by the NSF National Geophysical Facility operated by EarthScope. GeoLab is a browser-based JupyterHub platform that provides a ready-to-use scientific Python environment, allowing participants to run the course notebooks without installing software locally.
 
 The course notebooks were developed to run in GeoLab and remain compatible with that environment. Now that GeoLab is open to the broader Earth science community, anyone with an EarthScope User Account can use GeoLab to run the notebooks in this repository.
 
