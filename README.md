@@ -1,7 +1,7 @@
-![Deployement of book](../../actions/workflows/deploy-book.yml/badge.svg)
-[Link to 2026 Geodesy TSC Jupyter-book](https://cascadiaquakes.github.io/2026_Geodesy_TSC/)
-
 # 2026 CRESCENT Technical Short Course: Strain Accumulation and Release from GNSS
+
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
+
 **June 15–17, 2026 | Virtual**
 
 This repository contains materials for the **Strain Accumulation and Release from GNSS** technical short course offered through CRESCENT.
@@ -10,6 +10,10 @@ This course provides requisite tools for recognizing how earthquake cycle signat
 
 For course details, please visit the 
 [course webpage](https://cascadiaquakes.org/geoscience-education-and-inclusion/technical-short-courses/geodesy/).
+
+**Course book:** https://cascadiaquakes.github.io/2026_Geodesy_TSC/
+
+---
 
 ## Course Materials
 
@@ -31,6 +35,8 @@ For course details, please visit the
 [Notebook 4: Viscoelastic Cycle Demo (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Viscoelastic_cycle_demo.ipynb)  <br>
 [Notebook 5: Slip Inversion Activities (Kaj Johnson)](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/38df902667dc4de49b20f136848bf10e4e08a450/notebooks/Day3/Slip_inversion_activities.ipynb)  <br>
 
+---
+
 ## Course Computing Environment (GeoLab)
 
 This course used the GeoLab, a computing environment provided by the NSF National Geophysical Facility operated by EarthScope. GeoLab is a browser-based JupyterHub platform that provides a ready-to-use scientific Python environment, allowing participants to run the course notebooks without installing software locally.
@@ -51,9 +57,34 @@ Need Help? Discourse forum: https://earthscope.discourse.group   <br>
 **Running the notebooks locally**   <br>
 If you prefer to run the notebooks on your own computer, you can create a local Python environment using the [environment.yml file](https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/aad38d4d8d6cfbe70439c2b100b1b36ef127193f/environment.yml) included in this repository. This file lists the software dependencies required to run the course notebooks outside of GeoLab.
 
+---
+
 ## Instructors
 
 Brendan Crowell (Ohio State University) <br>
 Jack Loveless (Smith College)<br>
 Kaj Johnson (Indiana University Bloomington) <br>
 Tim Melbourne (Central Washington University) <br>
+
+---
+
+## License
+
+This project is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
+
+---
+
+## Acknowledgments
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/crescent-circle.png" alt="CRESCENT Logo" width="150" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/cascadiaquakes/.github/main/assets/nsf-logo.png" alt="NSF Logo" width="450" />
+    </td>
+  </tr>
+</table>
+
+This project is supported by the National Science Foundation through the Cascadia Region Earthquake Science Center (CRESCENT), Cooperative Agreement EAR-2225286.
