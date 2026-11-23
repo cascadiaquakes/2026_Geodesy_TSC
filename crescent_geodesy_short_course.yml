@@ -13,7 +13,7 @@ tags: [geodesy, GNSS, earthquake cycle, forward modeling, inverse modeling, bloc
 type: 'notebook'
 difficulty: intermediate
 time_commitment: 4 hours
-image_tag: geolab_base *[If your dockerhub.io/my_image_tag *[only include for custom GeoLab images]
-recommended_resource_allocation: "4GB"
+image_tag: geolab_base
+recommended_resource_allocation: "15GB"
 citation: 10.5281/zenodo.21682412
-last_updated: 2026-07-28 *[Date your project was last tested and verified working in GeoLab]
+last_updated: 2026-06-17
