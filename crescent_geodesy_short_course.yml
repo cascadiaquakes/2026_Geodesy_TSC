@@ -1,0 +1,19 @@
+title: 2026_Geodesy_TSC
+author: ["Brendan Crowell, Ohio State University", "Jack Loveless, Smith College", "Kaj Johnson, Indiana University Bloomington", "Tim Melbourne, Central Washington University", "Shannon Fasola, CRESCENT"]  # each entry is "Name" or "Name, Institution"; institution is optional
+github: https://github.com/cascadiaquakes/2026_Geodesy_TSC
+maintainer contact: sfasola@uoregon.edu
+thumbnail: https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/0c174ec193b81d6b2832e4822c75cdb82e5247a3/Crescent_logo.png
+summary: >
+  The CRESCENT Strain Accumulation and Release from GNSS technical short course introduced graduate students, postdocs, and professionals to using geodetic observations to understand the earthquake cycle in the Cascadia Subduction Zone. Over three days, participants progressed from processing GNSS time series and identifying interseismic, coseismic, and slow-slip signals to estimating fault slip and plate coupling, and exploring how viscoelastic processes influence surface deformation.
+description: >
+  The Strain Accumulation and Release from GNSS collection provides open-source educational resources and computational tools for exploring earthquake-cycle processes through geodetic observations. The materials were developed and presented by instructors from CRESCENT's Coupling, Seismicity, and Slow Slip (C3S) Working Group as part of CRESCENT's Geoscience Education and Inclusion (GEI) Technical Short Course program. They introduce methods for processing GNSS time-series data, identifying signals associated with interseismic strain accumulation, coseismic deformation, and slow-slip events, and using geodetic observations to investigate fault slip and plate coupling in subduction zones.
+  The collection includes Python-based Jupyter notebooks, instructional materials, and hands-on exercises that guide users through geodetic data processing, forward modeling, and inverse methods. Users can explore different Earth models, compare predicted surface deformation, and investigate how elastic and viscoelastic properties influence interpretations of fault slip and earthquake-cycle behavior. These resources are intended to support students, researchers, and professionals working in geodesy, tectonics, and earthquake science, while providing adaptable examples that can be incorporated into research, teaching, and professional development. 
+launch_link: https://geolab.earthscope.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcascadiaquakes%2F2026_Geodesy_TSC&urlpath=lab%2Ftree%2F2026_Geodesy_TSC%2FREADME.md&branch=main
+tags: [geodesy, GNSS, earthquake cycle, forward modeling, inverse modeling, block models, layered elastic structures, compliant wedges, viscoelastic earth structure]
+type: 'notebook'
+difficulty: intermediate
+time_commitment: 4 hours
+image_tag: geolab_base *[If your dockerhub.io/my_image_tag *[only include for custom GeoLab images]
+recommended_resource_allocation: "4GB"
+citation: 10.5281/zenodo.21682412
+last_updated: 2026-07-28 *[Date your project was last tested and verified working in GeoLab]
