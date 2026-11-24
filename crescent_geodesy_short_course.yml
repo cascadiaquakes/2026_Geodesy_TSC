@@ -1,8 +1,8 @@
-title: 2026_Geodesy_TSC
+title: GNSS Strain Accumulation
 author: ["Brendan Crowell, Ohio State University", "Jack Loveless, Smith College", "Kaj Johnson, Indiana University Bloomington", "Tim Melbourne, Central Washington University", "Shannon Fasola, CRESCENT"]  # each entry is "Name" or "Name, Institution"; institution is optional
 github: https://github.com/cascadiaquakes/2026_Geodesy_TSC
 maintainer contact: sfasola@uoregon.edu
-thumbnail: https://github.com/cascadiaquakes/2026_Geodesy_TSC/blob/0c174ec193b81d6b2832e4822c75cdb82e5247a3/Crescent_logo.png
+thumbnail: https://raw.githubusercontent.com/cascadiaquakes/2026_Geodesy_TSC/refs/heads/main/Crescent_logo.png
 summary: >
   The CRESCENT Strain Accumulation and Release from GNSS technical short course introduced graduate students, postdocs, and professionals to using geodetic observations to understand the earthquake cycle in the Cascadia Subduction Zone. Over three days, participants progressed from processing GNSS time series and identifying interseismic, coseismic, and slow-slip signals to estimating fault slip and plate coupling, and exploring how viscoelastic processes influence surface deformation.
 description: >
